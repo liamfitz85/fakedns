@@ -6,5 +6,5 @@ Intel NUC running as a car computer with a wireless access point.  Passengers ca
 How to use fake dns
 
 ```
-root@carpc #: python3 pyfakedns.py --udp
+root@carpc #: python3 ddnsserver.py --udp
 ```
